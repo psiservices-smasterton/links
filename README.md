@@ -16,6 +16,9 @@ Local Dev with Docker
 Running SQL Server in a docker container
 - [Configure and customize SQL Server Docker containers](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-configure?view=sql-server-ver15&pivots=cs1-powershell)
 
+Running Azurite storage emulator in Docker
+- [Run Azurite V3 docker image](https://github.com/Azure/Azurite/blob/main/README.md#dockerhub)
+
 Youtube
 - [Intro to Docker - A Tool Every Developer Should Know](https://www.youtube.com/watch?v=WcQ3-M4-jik)
 
